@@ -3,7 +3,7 @@
 
 PlantUML (PUML) is a tool that allows users to create diagrams from plain text descriptions, making it ideal for easily generating and maintaining various types of UML diagrams, flowcharts, and other visual representations of systems and processes.
 
-You can create UML diagrams in your IDE or you could use the open source editor online. When you want to try it in your IDE you need a plugin for e.g. **PlantUML Integration**, so that you can see a diagram as a preview as you create it.
+You can create UML diagrams in your IDE or you could use the open source editor online. When you want to try it in your IDE you need a plugin like **PlantUML**, so that you can see a diagram as a preview as you create it.
 
 **diagram.puml**
 ```
